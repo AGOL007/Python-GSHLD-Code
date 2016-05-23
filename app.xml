@@ -3,5 +3,6 @@
   <appSettings>
     <add key="Browser" value="Firefox"/>
 	<add key="Path" value="C:\Python27\Scripts\"/>
+	<add key="SecondTabItem" value="Live Feeds"/>
   </appSettings>
 </configuration>
